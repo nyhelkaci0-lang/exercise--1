@@ -1,0 +1,69 @@
+#MyPersonalProfile{
+    color: #F0BDC2;
+    text-decoration: underline;
+
+}
+
+#fullname{
+    color: #FFD9EA;
+    
+
+}
+#box{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid hotpink;
+    object-fit: cover;
+    
+}
+#AboutMe{
+    color: #cf83a5;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+#para1{
+    width: 200px;
+    height: 150px;
+    color: black;
+    background-color: #FFD9EA;
+border: 2px solid #FFA6CE;
+border-radius: 2%;
+margin-left: 20px;
+padding: 20px;
+}
+.skills-box{
+    width: 220px;
+    background-color: #ffd9e8;
+    border: 2px solid hotpink;
+    border-radius: 10px;
+    
+}
+#myskills{
+    color: #cf83a5;
+}
+#myfavweb{
+   color: #cf83a5;
+}
+#myinfo{
+    color: #0f0102;
+    background-color: #FFD9EA;
+    width: 230px;
+    height: 230px;
+   border-radius: 5px;
+   border: hotpink solid 2px;
+   padding-left: 50px;
+   margin-left: 20px;
+}
+#myinfo1{
+    color: #cf83a5;
+text-decoration: underline;
+}
+#section1{
+     background-image: url(pink.webp);
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1080px;
+
+}
